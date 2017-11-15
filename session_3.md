@@ -30,7 +30,7 @@ Algunos métodos bonitos de String son:
     
 - Reverse: invierte el String
 - Upcase: convierte todo el String a mayúsculas
-- Downcose: convierto todo el String a minúsculas
+- Downcase: convierto todo el String a minúsculas
 - Swapcase: convierte las mayúsculas en minúsculas y viceversa
 - Capitalize: convierte el primer carácter en mayúsculas y las demás en minúsculas
 
