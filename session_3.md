@@ -251,7 +251,7 @@ Debes ver como resultado:
      Hola, cual es tu nombre?
      Estela
      Hola, Estela.
-     Que bonito nombre!
+     Que nombre tan bonito!
     
 Obtienes el mismo resultado pero tu programa es mas eficiente, simplemente por usar el operador lógico **OR**.
 
