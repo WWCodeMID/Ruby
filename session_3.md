@@ -30,7 +30,7 @@ Algunos métodos bonitos de String son:
     
 - Reverse: invierte el String
 - Upcase: convierte todo el String a mayúsculas
-- Downcose: convierto todo el String a minúsculas
+- Downcase: convierto todo el String a minúsculas
 - Swapcase: convierte las mayúsculas en minúsculas y viceversa
 - Capitalize: convierte el primer carácter en mayúsculas y las demás en minúsculas
 
@@ -251,7 +251,7 @@ Debes ver como resultado:
      Hola, cual es tu nombre?
      Estela
      Hola, Estela.
-     Que bonito nombre!
+     Que nombre tan bonito!
     
 Obtienes el mismo resultado pero tu programa es mas eficiente, simplemente por usar el operador lógico **OR**.
 
